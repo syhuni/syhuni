@@ -9,4 +9,4 @@ I'm Yeong Hun
 
 <!-- GitHub 활동 -->
 ## GitHub Activity
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ssafyguy&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=syhuni&show_icons=true&theme=radical)
